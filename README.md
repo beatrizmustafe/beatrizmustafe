@@ -1,23 +1,37 @@
-### Oii! Eu sou Ana Beatriz 👋
 
-![banner](https://images.unsplash.com/photo-1518709268805-4e9042af9f23?q=80&w=1000)
+<h2 align="left">Oii! Eu sou Ana Beatriz 👋</h2>
+
+<div align="center">
+  <img
+    src="banner.png"
+    alt="Banner de tecnologia"
+    width="100%"
+  />
+</div>
+
+<br>
+
+<div align="center">
+  <img
+    src="https://skillicons.dev/icons?i=python,html,css,js,linux,git,github"
+    alt="Tecnologias"
+  />
+</div>
 
 ---
 
-### 🚀 Tecnologias
+### 💻 Sobre mim
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-
----
-
-### 🌱 Atualmente estudando
-- Python
-- Git & GitHub
-- Lógica de programação
-- HTML e CSS
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas
+- 🌐 Interessada em redes, tecnologia e programação
+- 🚀 Sempre aprendendo algo novo
 
 ---
 
-### 📫 Contato
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:beatriz815905@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=midnight-purple&hide_border=true"
+    alt="Estatísticas do GitHub"
+  />
+</div>
+
