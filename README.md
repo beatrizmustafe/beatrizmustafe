@@ -1,5 +1,5 @@
 
-<h1 align="center">Oii! Eu sou Ana Beatriz 👋💜</h1>
+<h1 align="center">Oii! Eu sou Ana Beatriz 👋</h1>
 
 <p align="center">
   <i>Explorando o mundo da tecnologia, uma linha de código por vez.</i>
