@@ -10,8 +10,9 @@
 ---
 
 <div align="center">
-  <img src="2970.gif" width="320" alt="Gatinho digitando no teclado">
+  <img src="./imagens/2970.gif" width="320" alt="Gatinho digitando no teclado">
 </div>
+
 
 <br>
 
